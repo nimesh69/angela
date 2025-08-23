@@ -1,0 +1,7 @@
+question,option_a,option_b,option_c,option_d,correct_answer,explanation
+What is a data structure?,A programming language,A collection of algorithms,A way to store and organize data,A type of computer hardware,A,
+Data Structure MCQ (Chapterwise) . 1. What is a data structure?,A programming language,A collection of algorithms,A way to store and organize data,A type of computer hardware,A,
+Which of the following searching algorithm is fastest?,binary search,linear search,jump search,all are equally fast,A,
+Where is linear searching used?,When the list has only a few elements,When performing a single search in an unordered list,Used all the time,When the list has only a few elements and When performing a single search in an unordered list,A,
+Is there any difference in the speed of execution between linear serach(recursive) vs linear search(lterative)?,Both execute at same speed,,,Cant be said,A,
+What is the advantage of recursive approach than an iterative approach?,Consumes less memory,Less code and easy to implement,Consumes more memory,More code has to be written,A,
